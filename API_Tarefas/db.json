@@ -1,0 +1,45 @@
+{
+    "tarefas":[
+        {
+            "id": 1,
+            "nome": "Arrumar a cama"
+            
+        },
+        {
+            "id": 2,
+            "nome": "Lavar a louça"
+        },
+        {
+            "id": 3,
+            "nome": "Limpar o quarto"
+        },
+        {
+            "id": 4,
+            "nome": "Limpar o quintal"
+        },
+        {
+            "id": 5,
+            "nome": "Tomar cafe da manhã"
+        }, 
+        {
+            "id": 6,
+            "nome": "Estudar"
+        },
+        {
+            "id": 7,
+            "nome": "Fazer exercícios"
+        },
+        {
+            "id": 8,
+            "nome": "Ler um livro"
+        },
+        {
+            "id": 9,
+            "nome": "Fazer compras"
+        },
+        {
+            "id": 10,
+            "nome": "Cozinhar o jantar"
+        }
+    ]
+}
